@@ -1,0 +1,1 @@
+This repo is contains an end-to-end ML project which predicts student's writing score
